@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JITSIE, IIT Madras</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../src/animations.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#events">Events</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#team">Meet Our Team</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+            <li><a href="#join">Join Us</a></li>
+        </ul>
+    </nav>
+
+    <div class="preloader">
+        <div class="preloader-content">
+            <img src="../assets/jitsie-iitm-high-resolution-logo-white-on-black-background.png" alt="JITSIE Logo">
+            <div class="tracking-in-contract-bck">
+                <h1>Jamsetji Tata Society for Innovation and Entrepreneurship (JITSIE), IIT Madras</h1>
+            </div>
+
+            <div class="text-flicker-in-glow">
+                <h1>Loading....</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="content">
+        Hello World.
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            setTimeout(function () {
+                document.querySelector(".preloader").classList.add("hidden");
+            }, 4000); 
+        });
+    </script>
+</body>
+
+</html>
