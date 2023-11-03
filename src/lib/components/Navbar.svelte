@@ -1,5 +1,5 @@
 <script>
-	let isOpen = true;
+	let isOpen = false;
 </script>
 
 <nav>
