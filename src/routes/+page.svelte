@@ -16,6 +16,10 @@
 	let showCardId = 0;
 </script>
 
+<svelte:head>
+	<title>JITSIE | Jamsetji Tata Society for Innovation and Entrepreneurship</title>
+</svelte:head>
+
 <div class="relative">
 	<div class="md:absolute md:top-[14rem] left-16 mt-4 sm:ml-10 ml-6">
 		<h1 class="text-white font-black text-5xl leading-[1.16]">

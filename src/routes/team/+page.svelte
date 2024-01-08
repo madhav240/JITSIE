@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>JITSIE | Team</title>
+</svelte:head>
+
 <div class="responsive-container-block container">
 	<p class="text-blk team-head-text text-white">Our Team</p>
 	<p class="text-blk team-role-text text-white">Web Dev</p>

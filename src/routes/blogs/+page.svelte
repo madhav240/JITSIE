@@ -1,3 +1,6 @@
+<svelte:head>
+	<title>JITSIE | Blogs</title>
+</svelte:head>
 <div class="mainContainer">
 	<div class="heading">
 		<h1>JITSIE Blogs</h1>
