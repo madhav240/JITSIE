@@ -16,7 +16,7 @@
 	let showCardId = 0;
 </script>
 
-<div>
+<div class="relative">
 	<div class="md:absolute md:top-[14rem] left-16 mt-4 sm:ml-10 ml-6">
 		<h1 class="text-white font-black text-5xl leading-[1.16]">
 			WELCOME TO <br /> JITSIE IITM <br /> SOCIETY
@@ -62,7 +62,7 @@
 	</div>
 	<div class="absolute right-0 sm:right-10 md:top-1 sm:top-[17rem] top-[20rem]">
 		<img
-			src="/jt.png"
+			src="/img/jt.webp"
 			alt=""
 			class="sm:h-[37rem] h-[24rem] object-contain"
 			style="-webkit-transform: scaleX(1);
