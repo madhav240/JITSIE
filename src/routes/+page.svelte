@@ -342,6 +342,101 @@
 				</svg>
 			</div>
 		</div>
+
+		<div>
+			<div class="text-center mt-32 pb-12 border-neutral-500 border-b-2">
+				<h1 class="text-white text-5xl font-bold">Welcome to JITSIE</h1>
+				<br />
+				<p class="text-neutral-300">
+					Lorem ipsum dolor sit amet, consectetur adipiscing <br /> elit, sed do eiusmod tempor incididunt
+					ut labore et
+				</p>
+			</div>
+
+			<div class="grid md:grid-cols-2 gap-12 mt-16">
+				<div>
+					<h1 class="text-white text-2xl">Lorem ipsum dolor sit amet, consectetu</h1>
+					<p class="text-neutral-400 mt-2">
+						Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus assumenda quam ipsum,
+						provident ex sint cumque porro quidem excepturi maxime fugit architecto eum modi
+						placeat, eos
+					</p>
+					<img
+						src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-1229892983-square.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+						class="h-96 w-full object-cover rounded-2xl mt-4"
+						alt=""
+					/>
+				</div>
+				<div>
+					<h1 class="text-white text-2xl">Lorem ipsum dolor sit amet, consectetu</h1>
+					<p class="text-neutral-400 mt-2">
+						Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus assumenda quam ipsum,
+						provident ex sint cumque porro quidem excepturi maxime fugit architecto eum modi
+						placeat, eos
+					</p>
+					<img
+						src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-1229892983-square.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+						class="h-96 w-full object-cover rounded-2xl mt-4"
+						alt=""
+					/>
+				</div>
+			</div>
+
+			<div class="grid sm:grid-cols-2 md:grid-cols-4 mt-16 gap-8">
+				<div>
+					<h1 class="text-white text-xl">Lorem ipsum dolor sit amet, consectetu</h1>
+					<p class="text-neutral-400 mt-1.5">
+						Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus assumenda quam ipsum,
+						provident ex sint cumque porro quidem excepturi maxime fugit architecto eum modi
+						placeat, eos
+					</p>
+					<img
+						src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-1229892983-square.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+						class="h-60 w-full object-cover rounded-2xl mt-4"
+						alt=""
+					/>
+				</div>
+				<div>
+					<h1 class="text-white text-xl">Lorem ipsum dolor sit amet, consectetu</h1>
+					<p class="text-neutral-400 mt-1.5">
+						Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus assumenda quam ipsum,
+						provident ex sint cumque porro quidem excepturi maxime fugit architecto eum modi
+						placeat, eos
+					</p>
+					<img
+						src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-1229892983-square.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+						class="h-60 w-full object-cover rounded-2xl mt-4"
+						alt=""
+					/>
+				</div>
+				<div>
+					<h1 class="text-white text-xl">Lorem ipsum dolor sit amet, consectetu</h1>
+					<p class="text-neutral-400 mt-1.5">
+						Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus assumenda quam ipsum,
+						provident ex sint cumque porro quidem excepturi maxime fugit architecto eum modi
+						placeat, eos
+					</p>
+					<img
+						src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-1229892983-square.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+						class="h-60 w-full object-cover rounded-2xl mt-4"
+						alt=""
+					/>
+				</div>
+				<div>
+					<h1 class="text-white text-xl">Lorem ipsum dolor sit amet, consectetu</h1>
+					<p class="text-neutral-400 mt-1.5">
+						Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus assumenda quam ipsum,
+						provident ex sint cumque porro quidem excepturi maxime fugit architecto eum modi
+						placeat, eos
+					</p>
+					<img
+						src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-1229892983-square.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+						class="h-60 w-full object-cover rounded-2xl mt-4"
+						alt=""
+					/>
+				</div>
+			</div>
+		</div>
 		<div class="mt-32 text-center">
 			<h1 class="text-white text-5xl font-bold">Incuabated Startups</h1>
 			<br />
